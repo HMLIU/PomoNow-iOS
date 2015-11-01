@@ -1,0 +1,66 @@
+/* Class = "UILabel"; text = "Long break time"; ObjectID = "5IM-eS-3QJ"; */
+"5IM-eS-3QJ.text" = "長時休息";
+
+/* Class = "UILabel"; text = "25 min"; ObjectID = "6E8-jy-ZEz"; */
+"6E8-jy-ZEz.text" = "25 min";
+
+/* Class = "UILabel"; text = "Long press to start"; ObjectID = "6Uj-cU-8Gc"; */
+"6Uj-cU-8Gc.text" = "長按開始計時";
+
+/* Class = "UILabel"; text = "Let's select a task"; ObjectID = "7zp-Of-et8"; */
+"7zp-Of-et8.text" = "從一個任務開始吧";
+
+/* Class = "UILabel"; text = "25:00"; ObjectID = "8gA-qV-A5U"; */
+"8gA-qV-A5U.text" = "25:00";
+
+/* Class = "UILabel"; text = "Break time"; ObjectID = "38h-Th-cXH"; */
+"38h-Th-cXH.text" = "休息時間";
+
+/* Class = "UILabel"; text = "25:00"; ObjectID = "AAJ-9K-r0C"; */
+"AAJ-9K-r0C.text" = "25:00";
+
+/* Class = "UILabel"; text = "Alarm sound"; ObjectID = "FRQ-eQ-5fL"; */
+"FRQ-eQ-5fL.text" = "提示聲";
+
+/* Class = "UILabel"; text = "4 Cycle"; ObjectID = "GwR-mO-zb5"; */
+"GwR-mO-zb5.text" = "4 Cycle";
+
+/* Class = "UILabel"; text = "5 min"; ObjectID = "JX9-U5-H46"; */
+"JX9-U5-H46.text" = "5 min";
+
+/* Class = "UILabel"; text = "Work time"; ObjectID = "MjZ-9j-A0v"; */
+"MjZ-9j-A0v.text" = "專注時間";
+
+/* Class = "UILabel"; text = "25:00"; ObjectID = "WeK-SR-hhJ"; */
+"WeK-SR-hhJ.text" = "25:00";
+
+/* Class = "UILabel"; text = "Continuous timing"; ObjectID = "cUv-Qf-OKw"; */
+"cUv-Qf-OKw.text" = "自動專注";
+
+/* Class = "UILabel"; text = "Long break delay"; ObjectID = "dpq-ei-tjS"; */
+"dpq-ei-tjS.text" = "長時休息延遲";
+
+/* Class = "UILabel"; text = "Thank you for using PomoNow"; ObjectID = "eTQ-2l-VJr"; */
+"eTQ-2l-VJr.text" = "感謝您使用PomoNow";
+
+/* Class = "UILabel"; text = "Rate PomoNow"; ObjectID = "fhp-Wj-4Aq"; */
+"fhp-Wj-4Aq.text" = "給PomoNow評分";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "iDq-jE-mRc"; */
+"iDq-jE-mRc.text" = "0";
+
+/* Class = "UILabel"; text = "Let's start with a tesk!"; ObjectID = "jFG-qy-8Yf"; */
+"jFG-qy-8Yf.text" = "今天沒有任務";
+
+/* Class = "UILabel"; text = "25 min"; ObjectID = "jNN-HH-FUB"; */
+"jNN-HH-FUB.text" = "25 min";
+
+/* Class = "UILabel"; text = "Timer sound"; ObjectID = "l3v-2q-nAH"; */
+"l3v-2q-nAH.text" = "鐘擺聲";
+
+/* Class = "UILabel"; text = "Disable lock screen"; ObjectID = "lsG-K5-w4t"; */
+"lsG-K5-w4t.text" = "阻止鎖屏";
+
+/* Class = "UILabel"; text = "Task"; ObjectID = "vdN-AV-Uou"; */
+"vdN-AV-Uou.text" = "任務";
+

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="PomoNow/Base.lproj/LaunchScreen.xib" source-language="en" datatype="plaintext" target-language="zh-Hant">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0.1" build-num="7A1001"/>
+    </header>
+    <body/>
+  </file>
+  <file original="PomoNow/Base.lproj/PomoNow.storyboard" source-language="en" datatype="plaintext" target-language="zh-Hant">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0.1" build-num="7A1001"/>
+    </header>
+    <body>
+      <trans-unit id="5IM-eS-3QJ.text">
+        <source>Long break Length</source>
+        <target>長時休息</target>
+        <note>Class = "UILabel"; text = "Long break time"; ObjectID = "5IM-eS-3QJ";</note>
+      </trans-unit>
+      <trans-unit id="6E8-jy-ZEz.text">
+        <source>25 min</source>
+        <target>25 min</target>
+        <note>Class = "UILabel"; text = "25 min"; ObjectID = "6E8-jy-ZEz";</note>
+      </trans-unit>
+      <trans-unit id="6Uj-cU-8Gc.text">
+        <source>Long press to start</source>
+        <target>長按開始計時</target>
+        <note>Class = "UILabel"; text = "Long press to start"; ObjectID = "6Uj-cU-8Gc";</note>
+      </trans-unit>
+      <trans-unit id="7zp-Of-et8.text">
+        <source>Start with a task</source>
+        <target>從一個任務開始吧</target>
+        <note>Class = "UILabel"; text = "Let's select a task"; ObjectID = "7zp-Of-et8";</note>
+      </trans-unit>
+      <trans-unit id="8gA-qV-A5U.text">
+        <source>25:00</source>
+        <target>25:00</target>
+        <note>Class = "UILabel"; text = "25:00"; ObjectID = "8gA-qV-A5U";</note>
+      </trans-unit>
+      <trans-unit id="38h-Th-cXH.text">
+        <source>Short Break Length</source>
+        <target>休息時間</target>
+        <note>Class = "UILabel"; text = "Break time"; ObjectID = "38h-Th-cXH";</note>
+      </trans-unit>
+      <trans-unit id="AAJ-9K-r0C.text">
+        <source>25:00</source>
+        <target>25:00</target>
+        <note>Class = "UILabel"; text = "25:00"; ObjectID = "AAJ-9K-r0C";</note>
+      </trans-unit>
+      <trans-unit id="FRQ-eQ-5fL.text">
+        <source>Alarm sound</source>
+        <target>提示聲</target>
+        <note>Class = "UILabel"; text = "Alarm sound"; ObjectID = "FRQ-eQ-5fL";</note>
+      </trans-unit>
+      <trans-unit id="GwR-mO-zb5.text">
+        <source>4 Cycle</source>
+        <target>4 Cycle</target>
+        <note>Class = "UILabel"; text = "4 Cycle"; ObjectID = "GwR-mO-zb5";</note>
+      </trans-unit>
+      <trans-unit id="JX9-U5-H46.text">
+        <source>5 min</source>
+        <target>5 min</target>
+        <note>Class = "UILabel"; text = "5 min"; ObjectID = "JX9-U5-H46";</note>
+      </trans-unit>
+      <trans-unit id="MjZ-9j-A0v.text">
+        <source>Pomodoro Length</source>
+        <target>專注時間</target>
+        <note>Class = "UILabel"; text = "Work time"; ObjectID = "MjZ-9j-A0v";</note>
+      </trans-unit>
+      <trans-unit id="WeK-SR-hhJ.text">
+        <source>25:00</source>
+        <target>25:00</target>
+        <note>Class = "UILabel"; text = "25:00"; ObjectID = "WeK-SR-hhJ";</note>
+      </trans-unit>
+      <trans-unit id="addtask">
+        <source>Add Task</source>
+        <target>添加任務</target>
+      </trans-unit>
+      <trans-unit id="cUv-Qf-OKw.text">
+        <source>Automatically Start</source>
+        <target>自動專注</target>
+        <note>Class = "UILabel"; text = "Continuous timing"; ObjectID = "cUv-Qf-OKw";</note>
+      </trans-unit>
+      <trans-unit id="cancel">
+        <source>Cancel</source>
+        <target>取消</target>
+      </trans-unit>
+      <trans-unit id="done">
+        <source>Done</source>
+        <target>確定</target>
+      </trans-unit>
+      <trans-unit id="dpq-ei-tjS.text">
+        <source>Long break delay</source>
+        <target>長時休息延遲</target>
+        <note>Class = "UILabel"; text = "Long break delay"; ObjectID = "dpq-ei-tjS";</note>
+      </trans-unit>
+      <trans-unit id="eTQ-2l-VJr.text">
+        <source>Thank you for using PomoNow.</source>
+        <target>感謝您使用PomoNow</target>
+        <note>Class = "UILabel"; text = "Thank you for using PomoNow"; ObjectID = "eTQ-2l-VJr";</note>
+      </trans-unit>
+      <trans-unit id="fhp-Wj-4Aq.text">
+        <source>Rate PomoNow</source>
+        <target>給PomoNow評分</target>
+        <note>Class = "UILabel"; text = "Rate PomoNow"; ObjectID = "fhp-Wj-4Aq";</note>
+      </trans-unit>
+      <trans-unit id="hour">
+        <source>h</source>
+        <target>時</target>
+      </trans-unit>
+      <trans-unit id="iDq-jE-mRc.text">
+        <source>0</source>
+        <target>0</target>
+        <note>Class = "UILabel"; text = "0"; ObjectID = "iDq-jE-mRc";</note>
+      </trans-unit>
+      <trans-unit id="jFG-qy-8Yf.text">
+        <source>No tasks for today.</source>
+        <target>今天沒有任務</target>
+        <note>Class = "UILabel"; text = "Let's start with a tesk!"; ObjectID = "jFG-qy-8Yf";</note>
+      </trans-unit>
+      <trans-unit id="jNN-HH-FUB.text">
+        <source>25 min</source>
+        <target>25 min</target>
+        <note>Class = "UILabel"; text = "25 min"; ObjectID = "jNN-HH-FUB";</note>
+      </trans-unit>
+      <trans-unit id="l3v-2q-nAH.text">
+        <source>Ticking sound</source>
+        <target>鐘擺聲</target>
+        <note>Class = "UILabel"; text = "Timer sound"; ObjectID = "l3v-2q-nAH";</note>
+      </trans-unit>
+      <trans-unit id="lsG-K5-w4t.text">
+        <source>Prevent Screen Lock</source>
+        <target>阻止鎖屏</target>
+        <note>Class = "UILabel"; text = "Disable lock screen"; ObjectID = "lsG-K5-w4t";</note>
+      </trans-unit>
+      <trans-unit id="min">
+        <source>min</source>
+        <target>分</target>
+      </trans-unit>
+      <trans-unit id="pd">
+        <source>Pomodoros</source>
+        <target>專注</target>
+      </trans-unit>
+      <trans-unit id="sbl">
+        <source>Set Break Length</source>
+        <target>設置休息時間</target>
+      </trans-unit>
+      <trans-unit id="slbd">
+        <source>Set Long break delay</source>
+        <target>設置長時休息延遲</target>
+      </trans-unit>
+      <trans-unit id="slbl">
+        <source>Set Long Break Length</source>
+        <target>設置長時休息時間</target>
+      </trans-unit>
+      <trans-unit id="spl">
+        <source>Set Pomodoro Length</source>
+        <target>設置專注時間</target>
+      </trans-unit>
+      <trans-unit id="task">
+        <source>Task</source>
+        <target>任務</target>
+      </trans-unit>
+      <trans-unit id="vdN-AV-Uou.text">
+        <source>Task</source>
+        <target>任務</target>
+        <note>Class = "UILabel"; text = "Task"; ObjectID = "vdN-AV-Uou";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="PomoNow/Info.plist" source-language="en" datatype="plaintext" target-language="zh-Hant">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0.1" build-num="7A1001"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="PomoNow/Localizable.strings" source-language="en" datatype="plaintext" target-language="zh-Hant">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0.1" build-num="7A1001"/>
+    </header>
+    <body>
+      <trans-unit id="Add task">
+        <source>Add task</source>
+        <target>添加任務</target>
+        <note>addtask</note>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <target>取消</target>
+        <note>cancel</note>
+      </trans-unit>
+      <trans-unit id="Done">
+        <source>Done</source>
+        <target>確定</target>
+        <note>done</note>
+      </trans-unit>
+      <trans-unit id="Pomodoros">
+        <source>Pomodoros</source>
+        <target>專注</target>
+        <note>pd</note>
+      </trans-unit>
+      <trans-unit id="Set Break Length">
+        <source>Set Break Length</source>
+        <target>設置休息時間</target>
+        <note>sbl</note>
+      </trans-unit>
+      <trans-unit id="Set Long Break Length">
+        <source>Set Long Break Length</source>
+        <target>設置長時休息時間</target>
+        <note>slbl</note>
+      </trans-unit>
+      <trans-unit id="Set Long break delay">
+        <source>Set Long break delay</source>
+        <target>設置長時休息延遲</target>
+        <note>slbd</note>
+      </trans-unit>
+      <trans-unit id="Set Pomodoro Length">
+        <source>Set Pomodoro Length</source>
+        <target>設置專注時間</target>
+        <note>spl</note>
+      </trans-unit>
+      <trans-unit id="Start with a task">
+        <source>Start with a task</source>
+        <target>從一個任務開始</target>
+        <note>Start with a task</note>
+      </trans-unit>
+      <trans-unit id="h">
+        <source>h</source>
+        <target>時</target>
+        <note>hour</note>
+      </trans-unit>
+      <trans-unit id="min">
+        <source>min</source>
+        <target>分</target>
+        <note>min</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="PomoNowTests/Info.plist" source-language="en" datatype="plaintext" target-language="zh-Hant">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="7.0.1" build-num="7A1001"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+      </trans-unit>
+      <trans-unit id="CFBundleShortVersionString">
+        <source>1.0</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

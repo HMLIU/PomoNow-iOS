@@ -1,0 +1,33 @@
+/* addtask */
+"Add task" = "添加任務";
+
+/* cancel */
+"Cancel" = "取消";
+
+/* done */
+"Done" = "確定";
+
+/* pd */
+"Pomodoros" = "專注";
+
+/* sbl */
+"Set Break Length" = "設置休息時間";
+
+/* slbl */
+"Set Long Break Length" = "設置長時休息時間";
+
+/* slbd */
+"Set Long break delay" = "設置長時休息延遲";
+
+/* spl */
+"Set Pomodoro Length" = "設置專注時間";
+
+/* Start with a task */
+"Start with a task" = "從一個任務開始";
+
+/* hour */
+"h" = "時";
+
+/* min */
+"min" = "分";
+
